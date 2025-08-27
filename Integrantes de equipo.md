@@ -1,4 +1,4 @@
-# MIEMBROS DEL EQUIPO
+# INTEGRANTES DEL EQUIPO
 
 ### Madera De Regil Capi
 ![Imagen Capi]()
