@@ -12,7 +12,7 @@ Victor Hugo Menéndez Domínguez
 
 ---
 
-## [Integrantes del equipo](https://github.com/Jose-Pablo-Martinez/Proyecto_ASF/blob/d29cca5305f1f897c7e8ddc1c2a076fcb4b8494e/Integrantes%20de%20equipo.md)
+## [Integrantes del equipo](https://github.com/Jose-Pablo-Martinez/Proyecto_ASF/blob/98ad8b79b3b2b638d7e0478eebdbdaa22399ca60/Integrantes%20de%20equipo.md)
 
 ---
 
